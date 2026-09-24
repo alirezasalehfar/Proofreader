@@ -1,17 +1,17 @@
-//
-//  ProofreaderApp.swift
-//  Proofreader
-//
-//  Created by Alireza Salehfar on 24.09.26.
-//
-
 import SwiftUI
 
 @main
 struct ProofreaderApp: App {
     var body: some Scene {
-        WindowGroup {
+        // Lives in the menu bar; .window style shows a popover-like panel
+        MenuBarExtra("Proofreader", systemImage: "checkmark.bubble") {
             ContentView()
+        }
+        .menuBarExtraStyle(.window)
+
+        // Standard Settings scene, opened with Cmd+,
+        Settings {
+            SettingsView()
         }
     }
 }
