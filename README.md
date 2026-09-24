@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Proofreader/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" width="180" alt="Proofreader icon">
+  <img src="Proofreader/Assets.xcassets/AppIcon.appiconset/icon_512x512@1x.png" width="180" alt="Proofreader icon">
 </p>
 
 <h1 align="center">Proofreader</h1>
