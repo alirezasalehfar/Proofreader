@@ -1,12 +1,22 @@
-# Proofreader
+<p align="center">
+  <img src="Proofreader/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" width="180" alt="Proofreader icon">
+</p>
 
-**A sleek macOS menu bar proofreader — powered by Google Gemini.**
+<h1 align="center">Proofreader</h1>
 
-Lives quietly in your menu bar. No dock icon, no window clutter. Just type and fix.
+<p align="center">
+  <strong>A sleek macOS menu bar proofreader — powered by Google Gemini.</strong><br>
+  Lives quietly in your menu bar. No dock icon, no window clutter. Just type and fix.
+</p>
 
-![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-blue)
-![Swift](https://img.shields.io/badge/Swift-SwiftUI-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-macOS%2014%2B-blue" alt="Platform">
+  <img src="https://img.shields.io/badge/Swift-SwiftUI-orange" alt="Swift">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  <a href="https://github.com/alirezasalehfar/proofreader/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20Download-latest%20release-success" alt="Download latest release">
+  </a>
+</p>
 
 ---
 
